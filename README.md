@@ -7,7 +7,7 @@
 
 ---
 
-## Description
+## Description 
 
 This project is a professional personal landing page built for Brianne E. Bonus, a senior at The University of Iowa pursuing a Bachelor of Business Administration in Business Analytics and Information Systems. It exists to serve as a functional "proof of concept" demonstrating technical literacy in GitHub, version control, and web presence management — skills that go beyond a traditional static resume. The site showcases Brianne's academic background, technical skill set, and professional links in a clean, accessible, and fully responsive design. It is intended for hiring managers and technical recruiters at mid-sized companies who are evaluating candidates with a strong foundation in data analytics and business intelligence.
 
